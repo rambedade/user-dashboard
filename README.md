@@ -1,5 +1,4 @@
 # User Management Dashboard
-# User Management Dashboard
 
 ![User Management Dashboard](https://github.com/user-attachments/assets/ea4ecb6a-7c52-4e14-9756-37fa17045bf3)
 

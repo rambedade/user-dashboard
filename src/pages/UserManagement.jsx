@@ -75,7 +75,7 @@ const UserManagement = () => {
 
   return (
     <Box sx={{ width: '100%', maxWidth: '600px', margin: 'auto', padding: '20px' }} >
-      <Typography variant="h4" gutterBottom  >User Management Board</Typography>
+      <Typography variant="h4" gutterBottom textAlign="center" >User Management Board</Typography>
       <UserForm 
         onSubmit={handleFormSubmit} 
         initialData={selectedUser} 
